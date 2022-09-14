@@ -56,3 +56,12 @@ for arquivo in arquivos:
 import os
 lista = os.listdir()
 print(lista)
+
+
+
+
+
+
+
+
+
